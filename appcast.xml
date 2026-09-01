@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>EM3 Updates</title>
-    <link>https://tristanrollet.github.io/em3-updates/</link>
-    <description>Signed releases for EM3.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EM3 Updates</title>
+        <link>https://tristanrollet.github.io/em3-updates/</link>
+        <description>Signed releases for EM3.</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 01 Sep 2026 12:56:28 +0000</pubDate>
+            <link>https://tristanrollet.github.io/em3-updates/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://tristanrollet.github.io/em3-updates/EM3-0.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tristanrollet.github.io/em3-updates/EM3-0.1.0.zip" length="2325483" type="application/octet-stream" sparkle:edSignature="8gmDM7AcYfIY8uHUk3QbEMvWFvT87HtXW4xfaCvQvrPO570KroueVsEJGdr3PLxaBACM4OuPdo3aL7VvIuHpCA=="/>
+        </item>
+    </channel>
 </rss>
