@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>EM3 Updates</title>
+    <link>https://tristanrollet.github.io/em3-updates/</link>
+    <description>Signed releases for EM3.</description>
+    <language>en</language>
+  </channel>
+</rss>
