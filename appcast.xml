@@ -6,6 +6,20 @@
         <description>Signed releases for EM3.</description>
         <language>en</language>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 02 Sep 2026 17:15:55 +0000</pubDate>
+            <link>https://tristanrollet.github.io/em3-updates/</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://tristanrollet.github.io/em3-updates/EM3-0.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tristanrollet.github.io/em3-updates/EM3-0.2.0.zip" length="2620209" type="application/octet-stream" sparkle:edSignature="j5B7jz3863UvQ65yno4uwET7w6V0cIJHwxe0YqS8jLWXWAafHFGfiqwXaV9X4DHMqXFAIpl79iwCHB6m7uzPDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://tristanrollet.github.io/em3-updates/EM32-1.delta" sparkle:deltaFrom="1" length="575174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HWSFhqc4R/q5VR08wLB2xdLJJ7ejrzV1kfEcHW3cINMB1NvhbsbyYs5+Lp0YmRsiL5L6k9D+Y6ZISXEtqRljDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 01 Sep 2026 12:56:28 +0000</pubDate>
             <link>https://tristanrollet.github.io/em3-updates/</link>
